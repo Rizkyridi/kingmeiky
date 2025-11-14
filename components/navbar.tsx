@@ -9,7 +9,7 @@ export function Navbar() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link href="/" className="text-white font-bold text-xl sm:text-2xl" style={{fontFamily: "var(--font-space-grotesk)"}}>
-            PILOT
+            King Meiky
           </Link>
 
           {/* Nav Links */}
